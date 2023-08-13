@@ -1,3 +1,5 @@
 void main(){
- print('Given the result of output');
+ for (int i=0;i<100;i++){
+  print('This is cosmatic:$i');
+ }
 }
